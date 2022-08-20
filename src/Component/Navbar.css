@@ -1,0 +1,20 @@
+
+.SearchContainer{
+    border: 0.5px solid lightgray;
+    display: flex;
+    width: 200%;
+    align-items: center;
+    margin-left: 4px;
+    background-color: white;
+}
+.Language{
+    font-size: 14px;
+    cursor: pointer;
+    color: aliceblue;
+}
+.MenuItem{
+    font-size: 14px;
+    cursor: pointer;
+    margin-left: 25px;
+    color: aliceblue;
+}
